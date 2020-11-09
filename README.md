@@ -3,8 +3,8 @@ A work master about the abstract poetry of invisible data hidden in nature and b
 
 Vanessa / Lorenzo Toquero
 Master Thesis II (pratique)
-Tuteur: Daniel Sciboz / Dr. Sachiko Hirosue
-HEAD Genève
+Tuteurs: Dr. Sachiko Hirosue Daniel Sciboz / 
+Ecole: HEAD Genève
 
 En collaboration avec « Biodesign for the real world » (à partir de maintenant sur BDRW) un projet fondé par Sachiko Hirosue et Robin Scheibler de l’EPFL (Lausanne) et hébergé dans le l’espace de biohackers d’Hackuarium (Univercité, Renens)
  
